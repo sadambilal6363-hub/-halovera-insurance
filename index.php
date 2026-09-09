@@ -1,0 +1,1 @@
+<?ph readfile("index.htm"); ?>
